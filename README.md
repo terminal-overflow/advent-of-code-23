@@ -1,2 +1,6 @@
-# advent-of-code-23
-Advent of Code Solutions for Christmas 2023
+# Advent of Code 2023
+This repo documents my attempts at the solutions for the Advent of Code 2023.
+
+## Day 1
+#### Puzzle 1
+
