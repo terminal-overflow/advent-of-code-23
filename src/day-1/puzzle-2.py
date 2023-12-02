@@ -1,5 +1,5 @@
 # Load the file in
-file = open('puzzle-1.txt')
+file = open('src/day-1/data.txt')
 data = file.readlines()
 file.close()
 
