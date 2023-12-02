@@ -8,3 +8,4 @@ Solutions will be in a vanilla language starting with Python on day 1.
 | Day | Part 1 | Part 2 |
 | :---: | :---: | :---: |
 | [Day 1](https://adventofcode.com/2023/day/1) | ⭐ | ⭐ |
+| [Day 1](https://adventofcode.com/2023/day/2) | ⭐ | ⭐ |

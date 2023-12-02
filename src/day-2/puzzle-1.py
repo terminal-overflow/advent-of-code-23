@@ -2,7 +2,7 @@ file = open('src/day-2/data.txt')
 data = file.readlines()
 file.close()
 
-limit_dict = {"RED": 12, "GREEN": 13, "BLUE": 14}
+limit_dict = {"red": 12, "green": 13, "blue": 14}
 
 total = 0
 
@@ -19,7 +19,7 @@ for line in data:
         # Split by cube colour
         cubes = turn.strip().split(', ')
         # Loop through each cube pulled out and compare against the limit for that colour
-        breached = True if [number for number in cubes if int(number.split(' ')[0]) > limit_dict.get(number.split(' ')[1].upper())] != [] else False
+        breached = True if [colour for colour in cubes if int(colour.split(' ')[0]) > limit_dict.get(colour.split(' ')[1])] != [] else False
         if breached: break
 
     if not breached:
