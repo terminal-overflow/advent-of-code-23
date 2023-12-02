@@ -1,12 +1,10 @@
-# Advent of Code 2023
+# 🎄 Advent of Code 2023
 This repo documents my attempts at the solutions for the Advent of Code 2023.
 
 Solutions will be in a vanilla language starting with Python on day 1.
 
-## Day 1
-- [x] Puzzle 1
-- [x] Puzzle 2
+## 2023 Results
 
-## Day 2
-- [ ] Puzzle 1
-- [ ] Puzzle 2
+| Day | Part 1 | Part 2 |
+| :---: | :---: | :---: |
+| [Day 1](https://adventofcode.com/2023/day/1) | ⭐ | ⭐ |
